@@ -1,2 +1,2 @@
 # MySQL
-Minha documentação sobre mysql
+Minha documentação sobre mysql para o obsidian
